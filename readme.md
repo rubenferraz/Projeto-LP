@@ -8,7 +8,7 @@
 
 <img src="imagens/linguagem.jpg" alt="Feito em C">
 
-> Código relativo ao trabalho prático em grupo da unidade curricular de Laboratórios de Programação.
+> Código relativo ao trabalho prático em grupo da unidade curricular de Laboratórios de Programação lecionado pelo professor Pedro Inácio.
 
 ### Ajustes e melhorias
 
